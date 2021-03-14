@@ -5,4 +5,7 @@
 - Render x-axis and y-axis
 - If we hove over an area then will see more information of that area
 
-<img src="images/visualize-gdp-data-with-bar-chart.png" alt="time_management_for_professionals" width="500px"/>
+**Live Demo:** https://codepen.io/sajibcse68/full/oNYVNoB  
+.
+
+<img src="images/visualize-gdp-data-with-bar-chart.png" alt="visualize-gdp-data-with-bar-chart" width="500px"/>
