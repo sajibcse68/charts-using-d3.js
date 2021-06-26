@@ -29,9 +29,9 @@
 - Plot the Heat Map using D3.js
 - Render x-axis and y-axis
 - If we hove over an area then will see more information of the Dot
-- Run all the tests and passed 16/16 tests!
+- Run all the tests and passed 18/18 tests!
 
-**Live Demo:** https://codepen.io/sajibcse68/pen/WNjejWg
+**Live Demo:** https://codepen.io/sajibcse68/full/WNjejWg
 .
 
 <img src="images/d3-heat-map.png" alt="d3-heat-map" width="500px"/>

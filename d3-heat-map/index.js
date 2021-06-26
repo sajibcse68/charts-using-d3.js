@@ -1,5 +1,5 @@
 // Author: Sajib Khan
-// Date: 23 June 2021
+// Date: 27 June 2021
 // coded by @sajibcse68 (github)
 
 const projectName = 'd3-heat-map';
