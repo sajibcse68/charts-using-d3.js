@@ -35,3 +35,16 @@
 .
 
 <img src="images/d3-heat-map.png" alt="d3-heat-map" width="500px"/>
+
+### Chart 4: Choropleth Map using D3 (United States Educational Attainment)
+
+- Do the API call and get the United States educational attainment data
+- Plot the Choropleth Map using D3.js
+- Render x-axis and y-axis
+- If we hove over an area then will see more information of the Dot
+- Run all the tests and passed 12/12 tests!
+
+**Live Demo:** https://codepen.io/sajibcse68/full/KKmPEmL
+.
+
+<img src="images/d3-choropleth.png" alt="d3-choropleth" width="500px"/>
